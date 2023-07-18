@@ -1,0 +1,15 @@
+package component:hello
+
+interface say-hi {
+  hello-world: func() -> string
+}
+
+interface say-bye {
+  bye: func() -> string
+}
+
+/// An example world for the component to target.
+world example {
+    export say-hi
+    export say-bye
+}

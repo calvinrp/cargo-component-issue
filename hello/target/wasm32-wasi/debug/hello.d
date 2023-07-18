@@ -1,0 +1,1 @@
+/Users/calvinprewitt/code/src/github.com/calvinrp/cargo-component-issue/hello/target/wasm32-wasi/debug/hello.wasm: /Users/calvinprewitt/code/src/github.com/calvinrp/cargo-component-issue/hello/src/lib.rs /Users/calvinprewitt/code/src/github.com/calvinrp/cargo-component-issue/hello/target/bindings/hello/src/lib.rs
